@@ -1,5 +1,5 @@
 {
-    "name": "outspaced/multiple-log",
+    "name": "outspaced/multiple-logs",
     "description": "An extension for psr-3 logger interface to allow multiple loggers",
     "keywords": ["psr", "psr-3", "log"],
     "license": "MIT",
